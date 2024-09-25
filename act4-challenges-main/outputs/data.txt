@@ -1,0 +1,35 @@
+**********************************
+*                                *
+*             RIZZISM          ***
+*                                 
+********************************
+
+=====================================================
+                FILE METADATA INFORMATION             
+=====================================================
+
+>> Creation time        : 2024-09-25 09:24:42.884440
+>> Modification time    : 2024-09-25 09:25:53.980220
+>> Access time          : 2024-09-25 10:11:40.311718
+>> File mode            : 33206
+>> File inode           : 33776997205466460
+>> Device ID            : 5937566699576973861
+>> Number of hard links : 1
+>> Owner User ID        : 0
+>> Group ID             : 0
+>> File Size (bytes)    : 1435
+>> Is a symlink         : False
+>> Absolute Path        : C:\Users\james\Downloads\act4-challenges-main\act4-challenges-main\outputs\data.txt
+>> File exists          : True
+>> Parent directory     : C:\Users\james\Downloads\act4-challenges-main\act4-challenges-main\outputs
+>> Parent dir & file    : C:\Users\james\Downloads\act4-challenges-main\act4-challenges-main\outputs | data.txt
+
+=====================================================
+                 END OF FILE METADATA                 
+=====================================================
+
+*****************************************************
+*                                                   *
+*        FILE METADATA HAS BEEN SUCCESSFULLY SAVED   *
+*                                                   *
+*****************************************************
